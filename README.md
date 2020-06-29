@@ -7,7 +7,7 @@ Requried libraries to build to project:
 	- Eigen3 (for linear algebra), 
 	- CeresSolver (for non-linear optimization)
 
-Usage:
+# Usage
 	- Draw at least one ellipse in the drawing area with 3 click for each ellipse.
 		- 2 left click to draw the major-axis of the ellipse
 		- 1 right click to draw the minor-axis of the ellipse and finalize the ellipse draw.
