@@ -3,6 +3,7 @@
 This project is developed to test different methods from to estimate 3D pose of a 3D circle from its perspective projection.
 
 Requried libraries to build to project: 
+
 	- wxWidgets (for GUI), 
 	- Eigen3 (for linear algebra), 
 	- CeresSolver (for non-linear optimization)
