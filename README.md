@@ -1,6 +1,5 @@
 # 3d_circle_estimation
-3D circle estimation from its perspective projection.
-This project is developed to test different methods from to estimate 3D pose of a 3D circle from its perspective projection.
+3D circle estimation from its perspective projection using different algorithms..
 
 Requried libraries to build to project: 
 
